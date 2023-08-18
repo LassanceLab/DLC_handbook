@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. About this document.md",
+                "file": "00 Table of contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. About this document.md",
+                "file": "00 Table of contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. About this document.md"
+                "file": "00 Table of contents.md"
               }
             }
           },
@@ -229,6 +229,7 @@
   },
   "active": "971a5c8534c17d02",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "2. About DeepLabCut.md",
     "1. About this document.md",
     "5. Moving beyond DLC.md",
