@@ -1,4 +1,4 @@
-- 2023-08-18 at 12h06 · [[TEST for auto commit]]
+- 2023-08-18 at 12h06 · [[TEST for auto commit2]]
 - 2023-08-18 at 11h53 · [[1. About this document]]
 - 2023-08-18 at 09h44 · [[1. Human readable changelog]]
 - 2023-08-17 at 10h10 · [[3. Getting started]]
