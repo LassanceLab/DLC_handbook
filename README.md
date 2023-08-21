@@ -14,7 +14,11 @@
   
 #### [1. About this Document > 1.2.4 Export as HTML](1.%20About%20this%20Document.md#1.2.4%20Export%20as%20HTML)  
   
-### [1. About this Document > 1.3 About the Authors](1.%20About%20this%20Document.md#1.3%20About%20the%20Authors)  
+### [1. About this Document > 1.3 Synching with GitHub](1.%20About%20this%20Document.md#1.3%20Synching%20with%20GitHub)  
+  
+### [1. About this Document > 1.4 Publishing to GitHub](1.%20About%20this%20Document.md#1.4%20Publishing%20to%20GitHub)  
+  
+### [1. About this Document > 1.5 About the Authors](1.%20About%20this%20Document.md#1.5%20About%20the%20Authors)  
   
 ## [2. About DeepLabCut](2.%20About%20DeepLabCut.md)  
   
