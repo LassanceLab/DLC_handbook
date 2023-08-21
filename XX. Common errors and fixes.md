@@ -6,13 +6,14 @@ edited_by:
   - {{name}}
   - Thorbjörn Sievert
 Created_at: 2023-06-27 14:21
-Modified_at: 2023-07-31 15:19
+Modified_at: 2023-08-21 10:23
 tags:
   - {{tag1}}
   - {{tag2}}
 alias:
   - {{alias1}}
   - {{alias2}}
+share: true
 ---
 
 ## Template
@@ -45,3 +46,5 @@ Examples of this: [Error while running DLC in Google Colab](https://forum.image.
 ## XX.3 Moseq
 
 ## XX.4 ETH-DLCAnalyzer
+
+Lorem ipsum

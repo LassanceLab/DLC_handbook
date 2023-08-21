@@ -8,11 +8,11 @@ edited_by:
 Created_at: <% tp.file.creation_date() %>
 Modified_at: 
 tags: 
-  - {{tag1}}
-  - {{tag2}}
+  - {{tag}}
+  - {{tag}}
 alias: 
-  - {{alias1}}
-  - {{alias2}}
+  - {{alias}}
+  - {{alias}}
 ---
 
 

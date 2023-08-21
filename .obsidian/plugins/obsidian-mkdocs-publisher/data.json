@@ -1,0 +1,98 @@
+{
+  "github": {
+    "user": "tsievert",
+    "repo": "dlc_test",
+    "branch": "main",
+    "automaticallyMergePR": true,
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[PUBLISHER] Merge",
+      "name": ""
+    },
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 4927
+  },
+  "upload": {
+    "behavior": "fixed",
+    "defaultName": "",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": true,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "enable": false,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md"
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": true,
+    "dataview": true,
+    "censorText": [
+      {
+        "entry": "/---([\\s\\S]*?)---/g",
+        "replace": "",
+        "flags": "",
+        "after": false
+      },
+      {
+        "entry": "",
+        "replace": "",
+        "flags": "",
+        "after": false
+      },
+      {
+        "entry": "",
+        "replace": "",
+        "flags": "",
+        "after": false
+      }
+    ],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": true,
+      "wiki": true,
+      "slugify": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "keySendFile": [],
+    "notes": true,
+    "folder": "",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->"
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": false,
+    "editorMenu": false,
+    "excludedFolder": [],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": false
+  }
+}

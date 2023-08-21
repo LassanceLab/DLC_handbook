@@ -1,5 +1,4 @@
 [
-  "drawio-obsidian",
   "editing-toolbar",
   "find-unlinked-files",
   "obsidian-hider",
@@ -25,5 +24,7 @@
   "badges",
   "short-internal-links-to-headings",
   "callout-manager",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mkdocs-publisher",
+  "drawio-obsidian"
 ]
