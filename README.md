@@ -46,6 +46,6 @@
   
 ## [5. Moving Beyond DLC](./5.%20Moving%20Beyond%20DLC.md)  
   
-## [XX. Common Errors and Fixes](./XX.%20Common%20Errors%20and%20Fixes.md)  
+## [XY. Common Errors and Fixes](./XY.%20Common%20Errors%20and%20Fixes.md)  
   
 ## [Changelog](./1.%20Human%20readable%20changelog.md)  
