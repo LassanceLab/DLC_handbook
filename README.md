@@ -6,7 +6,7 @@ This repository serves as an internal handbook at the LassanceLab for using Deep
   
 At the moment it is very much work in progress!  
   
-If you find this handbook helpful or spot any errors, please open an issue or reach out to Thorbjörn Sievert (tsievert (at) uliege.be).  
+If you find this handbook helpful or spot any errors, please open an issue or reach out to Thorbjörn Sievert (tsievert (at) uliege (dot) be).  
   
 ## [1. About this Document](./1.%20About%20this%20Document.md)  
   
