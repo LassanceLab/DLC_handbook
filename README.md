@@ -1,5 +1,13 @@
   
   
+## Introduction  
+  
+This repository serves as an internal handbook at the LassanceLab for using DeepLabCut and related software.  
+  
+At the moment it is very much work in progress!  
+  
+If you find this handbook helpful or spot any errors, please open an issue or reach out to Thorbjörn Sievert (tsievert (at) uliege.be).  
+  
 ## [1. About this Document](./1.%20About%20this%20Document.md)  
   
 ### [1. About this Document > 1.1 General Things](./1.%20About%20this%20Document.md#1.1%20General%20Things)  
@@ -46,6 +54,10 @@
   
 ## [5. Moving Beyond DLC](./5.%20Moving%20Beyond%20DLC.md)  
   
+## [XX. Other tools](./XX.%20Other%20tools.md)  
+  
 ## [XY. Common Errors and Fixes](./XY.%20Common%20Errors%20and%20Fixes.md)  
+  
+## [XZ. Code directory](./XZ.%20Code%20directory.md)  
   
 ## [Changelog](./1.%20Human%20readable%20changelog.md)  
