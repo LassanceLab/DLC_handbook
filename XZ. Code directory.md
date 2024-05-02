@@ -2,7 +2,7 @@
   
 ## XZ.1 DLC  
   
-[DLC_add_videos.py](./Code%20snippets/DLC_scripts/DLC_add_videos.py.md)    
+(code:: [DLC_add_videos.py](./Code%20snippets/DLC_scripts/DLC_add_videos.py.md))    
 [DLC_extract_frames.py](./Code%20snippets/DLC_scripts/DLC_extract_frames.py.md)  
   
 ## XZ.2 Keypoint-moseq  
