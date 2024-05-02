@@ -10,47 +10,47 @@ If you find this handbook helpful or spot any errors, please open an issue or re
   
 ## [1. About this Document](./1.%20About%20this%20Document.md)  
   
-### [1. About this Document > 1.1 General Things](./1.%20About%20this%20Document.md#1.1%20General%20Things)  
+### [1. About this Document > 1.1 General Things](./1.%20About%20this%20Document.md#11-general-things)  
   
-### [1. About this Document > 1.2 Maintenance of This Document](./1.%20About%20this%20Document.md#1.2%20Maintenance%20of%20This%20Document)  
+### [1. About this Document > 1.2 Maintenance of This Document](./1.%20About%20this%20Document.md#12-maintenance-of-this-document)  
   
-#### [1. About this Document > 1.2 Maintenance of This Document > 1.2.1 Template](./1.%20About%20this%20Document.md#1.2%20Maintenance%20of%20This%20Document)  
+#### [1. About this Document > 1.2 Maintenance of This Document > 1.2.1 Template](./1.%20About%20this%20Document.md#12-maintenance-of-this-document)  
   
-#### [1. About this Document > 1.2 Maintenance of This Document > 1.2.2 Changelog](./1.%20About%20this%20Document.md#1.2%20Maintenance%20of%20This%20Document)  
+#### [1. About this Document > 1.2 Maintenance of This Document > 1.2.2 Changelog](./1.%20About%20this%20Document.md#12-maintenance-of-this-document)  
   
-#### [1. About this Document > 1.2.3 Linter](./1.%20About%20this%20Document.md#1.2.3%20Linter)  
+#### [1. About this Document > 1.2.3 Linter](./1.%20About%20this%20Document.md#123-linter)  
   
-#### [1. About this Document > 1.2.4 Export as HTML](./1.%20About%20this%20Document.md#1.2.4%20Export%20as%20HTML)  
+#### [1. About this Document > 1.2.4 Export as HTML](./1.%20About%20this%20Document.md#124-export-as-html)  
   
-### [1. About this Document > 1.3 Synching with GitHub](./1.%20About%20this%20Document.md#1.3%20Synching%20with%20GitHub)  
+### [1. About this Document > 1.3 Synching with GitHub](./1.%20About%20this%20Document.md#13-synching-with-github)  
   
-### [1. About this Document > 1.4 Publishing to GitHub](./1.%20About%20this%20Document.md#1.4%20Publishing%20to%20GitHub)  
+### [1. About this Document > 1.4 Publishing to GitHub](./1.%20About%20this%20Document.md#14-publishing-to-github)  
   
-### [1. About this Document > 1.5 About the Authors](./1.%20About%20this%20Document.md#1.5%20About%20the%20Authors)  
+### [1. About this Document > 1.5 About the Authors](./1.%20About%20this%20Document.md#15-about-the-authors)  
   
 ## [2. About DeepLabCut](./2.%20About%20DeepLabCut.md)  
   
-### [2. About DeepLabCut > 2.1 What is DeepLabCut?](./2.%20About%20DeepLabCut.md#2.1%20What%20is%20DeepLabCut?)  
+### [2. About DeepLabCut > 2.1 What is DeepLabCut?](./2.%20About%20DeepLabCut.md#21-what-is-deeplabcut)  
   
-### [2. About DeepLabCut > 2.2 Important Links](./2.%20About%20DeepLabCut.md#2.2%20Important%20Links)  
+### [2. About DeepLabCut > 2.2 Important Links](./2.%20About%20DeepLabCut.md#22-important-links)  
   
-### [2. About DeepLabCut > 2.3 Donating Data](./2.%20About%20DeepLabCut.md#2.3%20Donating%20Data)  
+### [2. About DeepLabCut > 2.3 Donating Data](./2.%20About%20DeepLabCut.md#23-donating-data)  
   
 ## [3. Getting Started](./3.%20Getting%20Started.md)  
   
-### [3. Getting Started > 3.1 Read the DLC documentation!](./3.%20Getting%20Started.md#3.1%20Read%20the%20DLC%20documentation!)  
+### [3. Getting Started > 3.1 Read the DLC documentation!](./3.%20Getting%20Started.md#31-read-the-dlc-documentation)  
   
-### [3. Getting Started > 3.2 Choose Appropriate Keypoints](./3.%20Getting%20Started.md#3.2%20Choose%20Appropriate%20Keypoints)  
+### [3. Getting Started > 3.2 Choose Appropriate Keypoints](./3.%20Getting%20Started.md#32-choose-appropriate-keypoints)  
   
 ## [4. DLC Analysis](./4.%20DLC%20Analysis.md)  
   
-### [4. DLC Analysis > 4.1 Starting a New Analysis](./4.%20DLC%20Analysis.md#4.1%20Starting%20a%20New%20Analysis)  
+### [4. DLC Analysis > 4.1 Starting a New Analysis](./4.%20DLC%20Analysis.md#41-starting-a-new-analysis)  
   
-### [4. DLC Analysis > 4.2 Labelling Frames](./4.%20DLC%20Analysis.md#4.2%20Labelling%20Frames)  
+### [4. DLC Analysis > 4.2 Labelling Frames](./4.%20DLC%20Analysis.md#42-labelling-frames)  
   
-### [4. DLC Analysis > 4.3 Training the Model & Labelling Frames](./4.%20DLC%20Analysis.md#4.3%20Training%20the%20Model%20&%20Labelling%20Frames)  
+### [4. DLC Analysis > 4.3 Training the Model & Labelling Frames](./4.%20DLC%20Analysis.md#43-training-the-model-and-labelling-frames)  
   
-### [4. DLC Analysis > 4.4 Fix Outliers, Merge New Training Data, & Create New Training Iteration](./4.%20DLC%20Analysis.md#4.4%20Fix%20Outliers,%20Merge%20New%20Training%20Data,%20&%20Create%20New%20Training%20Iteration)  
+### [4. DLC Analysis > 4.4 Fix Outliers, Merge New Training Data, & Create New Training Iteration](./4.%20DLC%20Analysis.md#44-fix-outliers-merge-new-training-data-and-create-new-training-iteration)  
   
 ## [5. Moving Beyond DLC](./5.%20Moving%20Beyond%20DLC.md)  
   
