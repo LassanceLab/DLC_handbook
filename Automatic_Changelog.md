@@ -1,7 +1,9 @@
-- 2024-05-03 at 10h28 · [XZ. Code directory](./XZ.%20Code%20directory.md)  
-- 2024-04-19 at 11h12 · [4. DLC Analysis](./4.%20DLC%20Analysis.md)  
-- 2024-03-19 at 12h03 · [1. Human readable changelog](./1.%20Human%20readable%20changelog.md)  
-- 2024-01-19 at 11h22 · [README](./README.md)  
+  
+  
+- 2024-09-30 at 09h52 · [4. DLC Analysis](./4.%20DLC%20Analysis.md)  
+- 2024-08-20 at 13h36 · [README](./README.md)  
+- 2024-05-20 at 10h05 · [1. Human readable changelog](./1.%20Human%20readable%20changelog.md)  
+- 2024-05-03 at 10h31 · [XZ. Code directory](./XZ.%20Code%20directory.md)  
 - 2024-01-16 at 10h46 · [XY. Common Errors and Fixes](./XY.%20Common%20Errors%20and%20Fixes.md)  
 - 2024-01-16 at 10h46 · [XX. Other tools](./XX.%20Other%20tools.md)  
 - 2024-01-16 at 10h46 · [5. Moving Beyond DLC](./5.%20Moving%20Beyond%20DLC.md)  
