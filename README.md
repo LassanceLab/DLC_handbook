@@ -61,3 +61,17 @@ If you find this handbook helpful or spot any errors, please open an issue or re
 ## [XZ. Code directory](./XZ.%20Code%20directory.md)  
   
 ## [Changelog](./1.%20Human%20readable%20changelog.md)  
+  
+<h1><span><p dir="auto">00 Table of Content</p></span></h1><h2><span><p dir="auto">00 Table of Content</p></span></h2><h2><span><ol>  
+<li dir="auto">About this Document</li>  
+</ol></span></h2><h2><span><ol start="2">  
+<li dir="auto">About DeepLabCut</li>  
+</ol></span></h2><h2><span><ol start="3">  
+<li dir="auto">Getting Started</li>  
+</ol></span></h2><h2><span><ol start="4">  
+<li dir="auto">DLC Analysis</li>  
+</ol></span></h2><h2><span><ol start="5">  
+<li dir="auto">Moving Beyond DLC</li>  
+</ol></span></h2><h2><span><ol>  
+<li dir="auto">Human readable changelog</li>  
+</ol></span></h2><h2><span><p dir="auto">Automatic_Changelog</p></span></h2><h2><span><p dir="auto">basic_template</p></span></h2><h2><span><p dir="auto">XY. Common Errors and Fixes</p></span></h2><h2><span><p dir="auto">XX. Other tools</p></span></h2><h2><span><p dir="auto">XZ. Code directory</p></span></h2>  
